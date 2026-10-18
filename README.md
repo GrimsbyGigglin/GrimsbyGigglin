@@ -1,1 +1,35 @@
-PGgxIGFsaWduPSJjZW50ZXIiPvCfkoAgR1JJTSBHQU1FUyDwn5KAPC9oMT4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxiPkdhbWluZyDigKIgQ29sbGVjdGlibGVzIOKAoiBBSSBFeHBlcmltZW50czwvYj48YnI+CiAgPGk+UnVuIGJ5IEplc3NpZSDigJQgQW5nb2xhLCBJbmRpYW5hPC9pPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICBXZWxjb21lIHRvIEdyaW0gR2FtZXMuIEkgcGxheSBnYW1lcywgY29sbGVjdCBjYXJkcyBhbmQgYW5pbWUgZ29vZHMsCiAgYW5kIGJ1aWxkIHdlaXJkIEFJIHByb2plY3RzIG9uIG15IFBDLiBQdWxsIHVwIGEgY2hhaXIg4oCUIHRoZSBidXRsZXIgd2lsbCB0YWtlIHlvdXIgY29hdC4KPC9wPgoKLS0tCgojIyMg8J+OriBXaGF0IEknbSBJbnRvCgotICoqR2FtaW5nKiog4oCUIFBDICYgUGxheVN0YXRpb24uIEVsZGVuIFJpbmcgaXMgb25lIG9mIG15IGZhdm9yaXRlIGdhbWVzIGV2ZXIgbWFkZS4gQWxzbzogV2FyaGFtbWVyIDQwSywgaG9ycm9yIGdhbWVzIChTaWxlbnQgSGlsbCksIFBva8OpbW9uLCBBbmltYWwgQ3Jvc3NpbmcuCi0gKipDb2xsZWN0aW5nICYgU2VsbGluZyoqIOKAlCBQb2vDqW1vbiBUQ0csIEdvZGRlc3MgU3RvcnksIERyYWdvbiBCYWxsIFN1cGVyIENhcmQgR2FtZSwgWXUtR2ktT2ghLCBhbmltZSBmaWd1cmVzIGFuZCBnb29kcy4KLSAqKkFJIFRpbmtlcmluZyoqIOKAlCBSdW5uaW5nIGxvY2FsIEFJIGFnZW50cyBhbmQgbW9kZWxzIG9uIG15IG93biBoYXJkd2FyZSAoSGVybWVzIEFnZW50LCBTdGFyTmV0LCBPbGxhbWEpLiBCdWlsZGluZyBhIHNtYWxsIEFJIGNyZXcgdGhhdCB3b3JrcyBmb3IgKm1lKiwgb24gKm15KiBtYWNoaW5lLgotICoqVGhlIFJpZyoqIOKAlCBSVFggNTA3MCArIFJ5emVuIDcgNTcwMEcsIGFsd2F5cyBiZWluZyBvcHRpbWl6ZWQuCgojIyMg8J+boO+4jyBDdXJyZW50IFByb2plY3RzCgotIPCfpJYgKipMb2NhbCBBSSBjcmV3Kiog4oCUIEhlcm1lcyBBZ2VudCArIFN0YXJOZXQgcnVubmluZyBsb2NhbCBtb2RlbHMgdmlhIE9sbGFtYQotIPCfm43vuI8gKipHcmltIEdhbWVzIHN0b3JlKiog4oCUIHByaW50LW9uLWRlbWFuZCBkZXNpZ25zLCBsYXVuY2hpbmcgc29vbgotIPCfg48gKipUaGUgY29sbGVjdGlvbioqIOKAlCBhbHdheXMgaHVudGluZyBDaGFyaXphcmRzIGFuZCBjbGVhbiBHb2RkZXNzIFN0b3J5IHB1bGxzCgojIyMg8J+UlyBGaW5kIE1lCgotICoqSW5zdGFncmFtKiog4oCUIFtAZ3JpbXNieWdpZ2dsaW5dKGh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vZ3JpbXNieWdpZ2dsaW4pCi0gKipTaG9wcyoqIOKAlCBNZXJjYXJpICYgV2hhdG5vdCAoR3JpbSBHYW1lcykg4oCUIHByaW50LW9uLWRlbWFuZCBzdG9yZSBjb21pbmcgc29vbgoKLS0tCgo8cCBhbGlnbj0iY2VudGVyIj48aT4iSGF2ZSBmdW4sIGNvbGxlY3Qgd2hhdCB5b3UgbG92ZSwgYnVpbGQgd2hhdCB5b3Ugd2FudC4iPC9pPjwvcD4K
+<h1 align="center">💀 GRIM GAMES 💀</h1>
+
+<p align="center">
+  <b>Gaming • Collectibles • AI Experiments</b><br>
+  <i>Run by Jessie — Angola, Indiana</i>
+</p>
+
+<p align="center">
+  Welcome to Grim Games. I play games, collect cards and anime goods,
+  and build weird AI projects on my PC. Pull up a chair — the butler will take your coat.
+</p>
+
+---
+
+### 🎮 What I'm Into
+
+- **Gaming** — PC & PlayStation. Elden Ring is one of my favorite games ever made. Also: Warhammer 40K, horror games (Silent Hill), Pokémon, Animal Crossing.
+- **Collecting & Selling** — Pokémon TCG, Goddess Story, Dragon Ball Super Card Game, Yu-Gi-Oh!, anime figures and goods.
+- **AI Tinkering** — Running local AI agents and models on my own hardware (Hermes Agent, StarNet, Ollama). Building a small AI crew that works for *me*, on *my* machine.
+- **The Rig** — RTX 5070 + Ryzen 7 5700G, always being optimized.
+
+### 🛠️ Current Projects
+
+- 🤖 **Local AI crew** — Hermes Agent + StarNet running local models via Ollama
+- 🛍️ **Grim Games store** — print-on-demand designs, launching soon
+- 🃏 **The collection** — always hunting Charizards and clean Goddess Story pulls
+
+### 🔗 Find Me
+
+- **Instagram** — [@grimsbygigglin](https://www.instagram.com/grimsbygigglin)
+- **Shops** — Mercari & Whatnot (Grim Games) — print-on-demand store coming soon
+
+---
+
+<p align="center"><i>"Have fun, collect what you love, build what you want."</i></p>
