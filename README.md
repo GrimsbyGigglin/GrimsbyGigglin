@@ -22,13 +22,13 @@
 ### 🛠️ Current Projects
 
 - 🤖 **Local AI crew** — Hermes Agent + StarNet running local models via Ollama
-- 🛍️ **Grim Games store** — print-on-demand designs, launching soon
+- 🛍️ **GrimsbyGigglin on Etsy** — Grim Games print-on-demand designs, live now
 - 🃏 **The collection** — always hunting Charizards and clean Goddess Story pulls
 
 ### 🔗 Find Me
 
 - **Instagram** — [@grimsbygigglin](https://www.instagram.com/grimsbygigglin)
-- **Shops** — Mercari & Whatnot (Grim Games) — print-on-demand store coming soon
+- **Shops** — [GrimsbyGigglin on Etsy](https://grimsbygigglin.etsy.com) • Mercari & Whatnot (Grim Games)
 
 ---
 
